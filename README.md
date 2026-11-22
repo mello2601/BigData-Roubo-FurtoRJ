@@ -2,7 +2,12 @@
 
 Trabalho da disciplina de **Big Data Analytics** sobre a evolução de **roubos e furtos no município do Rio de Janeiro entre 2005 e 2015**, usando os dados abertos do Instituto de Segurança Pública (ISP-RJ).
 
-**Autores:** Matheus Pepe e Rafael Dias
+**Integrantes:**
+
+| Nome | Matrícula |
+|---|---|
+| Matheus Pepe de Mello Jacob Monteiro | 202502824238 |
+| Rafael Dias de Oliveira | 202502274076 |
 
 ---
 
