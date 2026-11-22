@@ -56,6 +56,8 @@ Todo o projeto está em um único notebook do Google Colab ([`code.ipynb`](code.
 - Todos os resultados são salvos em uma **planilha Excel** única (`projeto_seguranca_rj_2005_2015.xlsx`, uma aba por tabela, com aba "Leia-me" e gráficos) e também gravados no banco SQLite.
 - A **apresentação em PowerPoint** é gerada automaticamente pelo próprio código com `python-pptx`: todos os números dos slides vêm das tabelas calculadas, então, se a base mudar, a apresentação acompanha.
 
+📊 **Apresentação:** [`apresentacao_seguranca_rj_2005_2015.pptx`](apresentacao_seguranca_rj_2005_2015.pptx) — 21 slides com dados, análise descritiva, as quatro perguntas, outliers, os três modelos de regressão (com R², erros HAC e diagnóstico de Durbin-Watson), limitações e conclusões.
+
 ## Principais conclusões
 
 - Os **roubos caíram** do pico até o ponto mais baixo do período e **depois voltaram a subir** — uma reta única esconde esse padrão, por isso o modelo em três fases descreve melhor a série.
